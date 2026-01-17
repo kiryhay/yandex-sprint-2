@@ -1,0 +1,10 @@
+torch>=2.0
+transformers>=4.30
+datasets>=2.10
+rouge-score
+nltk
+pandas
+numpy
+tqdm
+scikit-learn
+jupyter
